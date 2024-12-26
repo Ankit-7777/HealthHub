@@ -154,7 +154,7 @@ CORS_ALLOWED_ORIGINS = [
 
 LOGIN_URL = 'login'
 
-# AUTH_USER_MODEL = '/logistics.User'
+AUTH_USER_MODEL = 'HealthReports.User'
 
 
 # Email configuration
